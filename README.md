@@ -46,16 +46,16 @@ openclaw skills install @jangviktor-web/huxishu
 
 <details>
 <summary><b>腾讯Skillhub /🖥️ 手动安装（任意平台）</b></summary>
-```bash
     
+```bash
 # 腾讯Skillhub 把下面这句话复制到wordbuddy、Qclaw 、openclaw即可安装 
 请根据 https://skillhub.cn/install/skillhub.md，安装 @user_ff4d9420/huxishu
 
-# 复制下面Github参考克隆到本地
-git clone https://github.com/jangviktor-web/huxishu.git
+# 复制给agent让agent自动克隆安装
+使用git clone https://github.com/jangviktor-web/huxishu.git，安装Skill。
+
 ```
 
-将 `huxishu/` 目录放置到对应平台的 skills 目录下即可。
 </details>
 
 ---
