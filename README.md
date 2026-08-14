@@ -223,4 +223,8 @@ huxishu/
 本项目内容仅供中医学习与研究，不替代专业医疗诊断。所有诊疗请务必咨询执业医师。
 
 ---
+## Star History
+
+[![RepoStars](https://repostars.dev/api/embed?repo=jangviktor-web%2Fhuxishu&theme=grape)](https://repostars.dev/?repos=jangviktor-web%2Fhuxishu&theme=grape)
+---
 
