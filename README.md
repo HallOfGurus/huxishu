@@ -1,5 +1,5 @@
 <div align="center">
-<img width="120" alt="1000194897" src="https://github.com/user-attachments/assets/2e0bc330-fed9-4d31-b3f8-d859148442c7" />
+<img width="120"  alt="1000196476" src="https://github.com/user-attachments/assets/e94bc9b7-1c7f-4c48-81fc-a93c7a5d508b" />
 
 # 胡希恕skill · 经方临床AI
 **将经方临床家胡希恕的六经八纲辨证体系注入 AI Agent**
