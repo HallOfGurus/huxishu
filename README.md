@@ -3,6 +3,7 @@
 
 # 胡希恕skill · 经方临床AI
 **将经方临床家胡希恕的六经八纲辨证体系注入 AI Agent**
+
 `398条伤寒论` · `22篇金匮` · `16个诊断公式` · `9组方证鉴别` · `38万字讲稿` · `7大辨证模块`
 
 [![GitHub Stars](https://img.shields.io/github/stars/jangviktor-web/huxishu?style=for-the-badge&color=yellow&label=Stars)](https://github.com/jangviktor-web/huxishu/stargazers)
