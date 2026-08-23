@@ -7,7 +7,7 @@
 `398条伤寒论` · `22篇金匮` · `16个诊断公式` · `9组方证鉴别` · `38万字讲稿` · `7大辨证模块`
 
 [![GitHub Stars](https://img.shields.io/github/stars/jangviktor-web/huxishu?style=for-the-badge&color=yellow&label=Stars)](https://github.com/jangviktor-web/huxishu/stargazers)
-[![版本](https://img.shields.io/badge/版本-v2.0.0-blue?style=for-the-badge)](https://github.com/jangviktor-web/huxishu/releases)
+[![版本](https://img.shields.io/badge/版本-v2.1-blue?style=for-the-badge)](https://github.com/jangviktor-web/huxishu/releases)
 [![License](https://img.shields.io/badge/协议-MulanPSL--2.0-green?style=for-the-badge)](LICENSE)
 [![IMA](https://img.shields.io/badge/IMA%20Skill-Ready-purple?style=for-the-badge)]()
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Ready-orange?style=for-the-badge&logo=anthropic&logoColor=white)]()
@@ -153,7 +153,7 @@ openclaw skills install @jangviktor-web/huxishu
 |-----|:-----:|:--------:|
 | 胡希恕《伤寒论》讲座（中日录音增补版） | ~25万 | ✅ 全量蒸馏（398条） |
 | 胡希恕《金匮要略》讲座（中日录音增补版） | ~13万 | ✅ 全量蒸馏（22篇） |
-| **合计** | **38万字** | **SKILL.md + 2个modules + 7个references** |
+| **合计** | **38万字** | **SKILL.md + 2个modules + 8个references** |
 
 ---
 
@@ -173,7 +173,8 @@ huxishu/
     ├── 04-antipatterns-boundaries.md # 反模式（禁汗禁下/反对五行生克/诚实边界）
     ├── 05-biography-legacy.md      # 生平与学术传承
     ├── 06-diet-wellness.md         # 饮食调理模型（8个公式）
-    └── 07-dosage-framework.md      # 剂量体系+七步条辨法
+    ├── 07-dosage-framework.md      # 剂量体系+七步条辨法
+    └── 08-expression-style.md      # 表达范式完整版（语气量化/✅❌对照/口头禅库/临床故事）
 ```
 
 ---
@@ -199,6 +200,11 @@ huxishu/
 
 <details>
 <summary><b>点击展开</b></summary>
+
+#### v2.1 (2026-08-22) — 三件套回填 + 索引修复
+- **三件套回填**（V4.4 落地法）：前置表达速查卡（L13-21）+ Step 5 输出形态铁律（八步条辨法）+ `references/08-expression-style.md` 完整范式（语气量化/✅❌对照/问诊往返/口头禅库/临床故事/防复用/方剂展示规范）
+- **索引修复 2 处**：补入 `references/02-decision-heuristics.md`（决策启发式完整版）、`references/03-expression-dna.md`（表达DNA素材库）两行索引
+- **版本标注**：CHANGELOG.md 更新至 V2.1；编码卫生检查（S15）全库 0 乱码 + 死链检查（S4）10 处路径引用 0 死链
 
 #### v2.0.0 (2026-07-24) — tcm-distiller 重构
 - 完全基于tcm-distiller蒸馏框架重构
@@ -229,4 +235,3 @@ huxishu/
 
 [![RepoStars](https://repostars.dev/api/embed?repo=jangviktor-web%2Fhuxishu&theme=grape)](https://repostars.dev/?repos=jangviktor-web%2Fhuxishu&theme=grape)
 ---
-
